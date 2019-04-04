@@ -1,6 +1,6 @@
 下载资料
 整理思维导图
-6、Github(2h)
+6、Github基本有空再搞
 1、Python(3h)
 2、SQL(2h)
 3、selenium(3h)
