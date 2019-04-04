@@ -1,0 +1,12 @@
+下载资料
+整理思维导图
+6、Github(2h)
+1、Python(3h)
+2、SQL(2h)
+3、selenium(3h)
+4、Jmeter(3)
+5、soapui
+7、Linux(2h)
+8、番茄时钟思维导图(1h)
+每日提交
+
