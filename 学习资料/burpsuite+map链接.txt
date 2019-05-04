@@ -1,0 +1,5 @@
+1、渗透测试工具SQLmap基础教程
+https://blog.csdn.net/zgyulongfei/article/details/41017493
+2、SQLMap使用教程（超全）
+https://blog.csdn.net/MickeyMouse1928/article/details/71601771
+https://www.cnblogs.com/hongfei/p/3872156.html

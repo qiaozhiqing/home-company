@@ -1,0 +1,14 @@
+接口测试入门：
+https://www.imooc.com/learn/738
+
+
+python
+基础就行
+
+Linux
+基础命令
+
+SQL
+链表查询
+
+性能测试
